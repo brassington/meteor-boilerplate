@@ -13,3 +13,6 @@ aldeed:collection2
 iron:router
 raix:handlebar-helpers
 nooitaf:semantic-ui-less
+tomi:es6
+mike:mocha
+
